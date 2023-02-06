@@ -1,9 +1,9 @@
-# pspvidconv
+# VidToPSP-ffmpeg
 
 
 ### Shell script to convert video to a format readable by the PSP and create a thumbnail for the PSP's video tab.
 
-Works on Linux and should also work on MacOS(untested)
+Works on Linux and most likely MacOS
 
 Script require **FFmpeg** installed to work
 
